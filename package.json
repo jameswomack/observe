@@ -1,0 +1,24 @@
+{
+  "name": "observe",
+  "version": "0.0.0",
+  "description": "KVO for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "kvo",
+    "key-value",
+    "observe",
+    "observing",
+    "observation",
+    "event",
+    "emitter"
+  ],
+  "author": "james_womack",
+  "license": "BSD",
+  "dependencies": {
+    "sugar": "~1.3.7"
+  }
+}
